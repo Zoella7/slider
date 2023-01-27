@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.glide__slide {
+    height: 1080px;
+    width: 1920px;
+    left: 0;
+    top: 0;
+    border-radius: 0;
+    margin: 0;
+}
+
+.mainBox{
+    position: absolute;
+    margin: 347px 1412px 417px 88px;
+}
+
+.image{
+    position: relative;
+}
+
+h4{
+    width: 154px;
+    height: 32px;
+    left: 100px;
+    top: 347px;
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 32px;
+    color: #FFFFFF;;
+}
+
+h1 {
+    width: 420px;
+    height: 128px;
+    left: 88px;
+    top: 380px;
+    margin: 0;
+    font-family: 'Viga', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 128px;
+    color: #FFFFFF;
+}
+
+p {
+    width: 515px;
+    height: 90px;
+    left: 100px;
+    top: 573px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+ol {
+    width: 169px;
+    height: 29px;
+    left: 118px;
+    top: 702px;
+    margin-top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+button{
+    margin-top: 300px;
+    width: 80px;
+}
+img{
+    height:939px;
+    width: 1920px;
+
+
+}
