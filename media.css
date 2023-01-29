@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px) {
+    .mainBox {
+        margin: 340px 141px 20px 88px;
+         }
+    p{
+        width: 350px;
+    }
+
+}
